@@ -8,6 +8,7 @@ como sitio estático en GitHub Pages.
 - `index.html`: página principal.
 - `hero-casa-moderna.png`: imagen del encabezado.
 - `logo-navarrete-hero.png`: logo utilizado en la cabecera.
+- `og-navarrete-inmobiliaria.jpg`: portada mostrada al compartir el enlace.
 - `leaflet.css` y `leaflet.js`: mapa interactivo.
 - `.nojekyll`: evita que GitHub Pages procese los archivos con Jekyll.
 
@@ -28,6 +29,7 @@ la raíz de un dominio como en una dirección del tipo:
    - `index.html`
    - `hero-casa-moderna.png`
    - `logo-navarrete-hero.png`
+   - `og-navarrete-inmobiliaria.jpg`
    - `leaflet.css`
    - `leaflet.js`
    - `README.md`
@@ -41,6 +43,11 @@ GitHub mostrará la dirección pública cuando termine el despliegue. Normalment
 `https://USUARIO.github.io/navarrete-inmobiliaria-linktree/`
 
 La primera publicación puede tardar unos minutos.
+
+Antes de compartir la página, abre `index.html` y reemplaza `TU-USUARIO` en
+las etiquetas `og:url`, `og:image` y `twitter:image` por tu usuario real de
+GitHub. Las redes sociales necesitan direcciones públicas absolutas para leer
+la portada correctamente.
 
 ## Publicar con Git
 
