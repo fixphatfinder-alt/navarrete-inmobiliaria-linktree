@@ -1,0 +1,156 @@
+[
+  {
+    "id": "P-0248",
+    "title": "Casa de 2 pisos - La Esperanza / Trujillo",
+    "type": "Casa",
+    "typeFilter": "casa",
+    "operation": "Venta",
+    "operationFilters": [
+      "venta"
+    ],
+    "price": "$133,000",
+    "location": "La Esperanza, Trujillo, Perú",
+    "area": "160 m²",
+    "phone": "+51 949 392 200",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949392200&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0248",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0248/",
+    "lat": -8.0767,
+    "lng": -79.0454,
+    "image": ""
+  },
+  {
+    "id": "P-0247",
+    "title": "Estratégica casa de 4 pisos en Urb. Palermo / Trujillo",
+    "type": "Casa",
+    "typeFilter": "casa",
+    "operation": "Venta",
+    "operationFilters": [
+      "venta"
+    ],
+    "price": "$350,000",
+    "location": "Urb. Palermo Etapa 3, Trujillo, Perú",
+    "area": "240 m²",
+    "phone": "+51 949 392 200",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949392200&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0247",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0247/",
+    "lat": -8.1061,
+    "lng": -79.0217,
+    "image": ""
+  },
+  {
+    "id": "P-0246",
+    "title": "Venta o alquiler - Hotel de 6 pisos - Av. Salvador Lara",
+    "type": "Local",
+    "typeFilter": "local",
+    "operation": "Venta o alquiler",
+    "operationFilters": [
+      "venta",
+      "alquiler"
+    ],
+    "price": "$1,200,000",
+    "location": "Av. Salvador Lara, Trujillo, Perú",
+    "area": "250 m²",
+    "phone": "+51 949 392 200",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949392200&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0246",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0246/",
+    "lat": -8.1016,
+    "lng": -79.0056,
+    "image": ""
+  },
+  {
+    "id": "P-0245",
+    "title": "Alquiler o venta - Local comercial - Av. César Vallejo",
+    "type": "Local comercial",
+    "typeFilter": "local",
+    "operation": "Alquiler o venta",
+    "operationFilters": [
+      "alquiler",
+      "venta"
+    ],
+    "price": "Consultar",
+    "location": "Av. César Vallejo, Trujillo, Perú",
+    "area": "250 m²",
+    "phone": "+51 949 392 200",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949392200&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0245",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0245/",
+    "lat": -8.1137,
+    "lng": -79.0237,
+    "image": ""
+  },
+  {
+    "id": "P-0244",
+    "title": "Oportunidad de inversión - Terreno en Urb. Los Galenos",
+    "type": "Terreno",
+    "typeFilter": "terreno",
+    "operation": "Venta",
+    "operationFilters": [
+      "venta"
+    ],
+    "price": "$210,000",
+    "location": "Urb. Los Galenos, Trujillo, Perú",
+    "area": "300.5 m²",
+    "phone": "+51 978 377 227",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51978377227&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0244",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0244/",
+    "lat": -8.1289,
+    "lng": -79.0107,
+    "image": ""
+  },
+  {
+    "id": "P-0243",
+    "title": "Departamento con cochera - Urb. Santa María V Etapa",
+    "type": "Departamento",
+    "typeFilter": "departamento",
+    "operation": "Venta",
+    "operationFilters": [
+      "venta"
+    ],
+    "price": "$90,000",
+    "location": "Urb. Santa María, Trujillo, Perú",
+    "area": "90.50 m²",
+    "phone": "+51 949 808 957",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949808957&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0243",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0243/",
+    "lat": -8.1274,
+    "lng": -79.0326,
+    "image": ""
+  },
+  {
+    "id": "P-0242",
+    "title": "Alquiler - Departamento en Urb. Santa María",
+    "type": "Departamento",
+    "typeFilter": "departamento",
+    "operation": "Alquiler",
+    "operationFilters": [
+      "alquiler"
+    ],
+    "price": "$380",
+    "location": "Urb. Santa María Etapa 1, Trujillo, Perú",
+    "area": "130 m²",
+    "phone": "+51 949 392 200",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51949392200&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0242",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0242/",
+    "lat": -8.1268,
+    "lng": -79.0318,
+    "image": ""
+  },
+  {
+    "id": "P-0241",
+    "title": "Departamento en Cercado de Lima",
+    "type": "Departamento",
+    "typeFilter": "departamento",
+    "operation": "Venta",
+    "operationFilters": [
+      "venta"
+    ],
+    "price": "$96,000",
+    "location": "Cercado de Lima, Perú",
+    "area": "75 m²",
+    "phone": "+51 960 878 297",
+    "whatsapp": "https://api.whatsapp.com/send?phone=51960878297&text=Hola%2C%20estoy%20interesado%20en%20la%20propiedad%20P-0241",
+    "url": "https://www.navarreteinmobiliaria.com/property/id-p-0241/",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "image": ""
+  }
+]
