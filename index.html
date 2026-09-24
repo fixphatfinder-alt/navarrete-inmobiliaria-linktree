@@ -31,6 +31,8 @@
 
 <link rel="stylesheet" href="editorial.css?v=20260918">
 <link rel="stylesheet" href="portada-luminosa.css?v=20260919">
+<link rel="stylesheet" href="consulta.css?v=20260924">
+<script src="consulta.js?v=20260924" defer></script>
 </head>
 <body>
 <a class="skip" href="#contenido">Ir al contenido</a>
@@ -422,7 +424,7 @@
             <div class="map-popup-row"><span>Área</span><strong>${escapeMapHtml(property.area)}</strong></div>
             <div class="map-popup-row"><span>ID</span><strong>${escapeMapHtml(property.id)}</strong></div>
             <div class="map-popup-actions">
-              <a href="${property.whatsapp}" target="_blank" rel="noopener">WhatsApp</a>
+              <button type="button" data-consulta-id="${escapeMapHtml(property.id)}" data-consulta-title="${escapeMapHtml(property.title)}" data-consulta-location="${escapeMapHtml(property.location)}" data-consulta-whatsapp="${escapeMapHtml(property.whatsapp)}">Consultar</button>
               <a href="${property.url}" target="_blank" rel="noopener">Ver anuncio</a>
             </div>
           </div>
@@ -503,6 +505,7 @@
   </script>
 </body>
 </html>
+
 
 
 
